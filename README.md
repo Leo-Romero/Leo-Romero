@@ -14,6 +14,7 @@ Algunas de las herramientas con las que trabajo actualmente:
 - React
 - NodeJS
 - Kivy
+- Flutter
 - COBOL
 ------------
 <h4 align="left">Lenguajes y Herramientas:</h4>
